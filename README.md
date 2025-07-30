@@ -1,1 +1,1 @@
-# odin-recipes
+i have completed the html basics in the foundation lessons of the odin project. this is a project given at the end of the html basics lesson.
